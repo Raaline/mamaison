@@ -1,0 +1,79 @@
+/*.container
+{  
+     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+   
+}
+
+.unlogement
+{
+    width: 200px;
+    height: 600px;
+}
+
+
+.titre
+{
+    text-align: center;
+}
+
+
+.bloc div img
+{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+
+    
+}
+#image
+{
+    text-align: center;
+}
+
+.type
+{
+    text-align: center;
+}
+#presentation p
+{
+    
+   text-align: left;
+}
+
+
+.bloc
+{
+    width: 300px;
+    height: 500px;
+    border-radius: 10%;
+    background-color: #959fb4;
+    color: #080808;
+    box-shadow: 2px 2px 3px rgb(0, 0, 0);
+    margin: 5% ;
+    padding: 10%;
+    
+  }
+
+button
+{
+    background-color: blueviolet;
+    color: rgb(12, 11, 12);
+    width: 100px;
+    height: 30px;
+    border-radius: 10%;
+}
+
+.pagination_div
+{
+    padding: 1%;
+    text-align-last: left;
+}
+.nbreelt
+{
+    padding: 1%;
+    text-align-last: center;
+}*/
